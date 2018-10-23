@@ -1,0 +1,10 @@
+{
+  "name": "serveNode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://ngohoang96@github.com/ngohoang96/serveNode",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
